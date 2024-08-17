@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The goal of this experiment was to determine if a model could be trained to consistently generate images of a single character across various poses and scenarios. The experiment aimed to achieve a uniform look across images by leveraging early CGI techniques with Blender and fine-tuning an image generation model.
+This experiment's goal was to determine if a model could be trained to consistently generate images of a single character across various poses and scenarios. It aimed to achieve a uniform look across images by leveraging fine-tuned image-gen models with Blender CGI.
 
 ## Overview
 
