@@ -55,7 +55,7 @@ If I were to redo this experiment, I would explore several advanced techniques a
 
 ### 1. **Incorporating Motion Capture for Blender Models**
 
-One potential enhancement is the integration of motion capture technology with the Blender model. By applying motion capture data to the CGI character, the movement could be made more natural and realistic. This approach would allow for more dynamic and fluid animations, closely mirroring the intricacies of real-life motion. This could be particularly useful for complex sequences where manual keyframing might not capture the subtle nuances of human motion. Additionally, the motion capture data could be used to align the CGI model's movements with the hand-drawn sequences, creating a more cohesive and seamless animation.
+One potential enhancement is integrating motion capture technology with the Blender model. Since experiments with AI animation often involve people using videos of themselves and turning them into something else, I want to try to add an extra layer to that process. Take a video of yourself, use motion capture tech to put that onto a loosely designed model of what you want the final result to look like, and then process that into the final animation rendering using Img2Img. Applying motion capture data to the CGI character could make the movement more natural and realistic, while adding in the CGI translation layer will give you more control over the data being processed into the final result, creating a more cohesive and seamless animation.
 
 ### 2. **Experimenting with Unreal Engine 5’s MetaHuman**
 
@@ -63,7 +63,7 @@ Another exciting avenue for exploration involves using Unreal Engine 5’s MetaH
 
 ### 3. **Exploring Advanced Image Isolation Techniques**
 
-With advancements in image processing technologies, new isolation methods could be employed to better separate the character from the background and other elements. Modern techniques, such as semantic segmentation or neural network-based background removal, could provide more accurate and detailed isolation of the character in each frame. By utilizing these techniques, the training data could be enhanced with cleaner, more precise images, leading to improved animation guidance and more consistent output. These methods could also allow for better handling of variations in lighting, shading, and perspective, further refining the model’s performance.
+With advancements in image processing technologies, new isolation methods could be employed better to separate the character from the background and other elements. Modern techniques, such as semantic segmentation or neural network-based background removal, could provide more accurate and detailed isolation of the character in each frame. Using these techniques, the training data could be enhanced with cleaner, more precise images, leading to improved animation guidance and more consistent output. These methods could also allow for better handling of lighting, shading, and perspective variations, further refining the model’s performance.
 
 ### 4. **Utilizing Expanded Data for Animation Guidance**
 
