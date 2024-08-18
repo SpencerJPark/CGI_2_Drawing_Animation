@@ -77,5 +77,5 @@ You can view the final animation in the .mov file included in the Google Drive l
 
 ## Acknowledgments
 
-- **Artist**: Thank you Oliver for providing the hand-drawn character dataset.
-- **Tools Used**: Blender, Hugging Face, [EveryDream 2](https://github.com/victorchall/EveryDream2trainer), DaVinci Resolve
+- **Artist**: Thank you Oliver Nunciato for providing the hand-drawn character dataset.
+- **Tools Used**: Blender, Hugging Face, [EveryDream 2](https://github.com/victorchall/EveryDream2trainer), DaVinci Resolve, Stable Diffusion WebUi
