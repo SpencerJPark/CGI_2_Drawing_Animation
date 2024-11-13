@@ -1,5 +1,7 @@
 # Character Consistency Experiment
 
+Final Result: https://youtu.be/vqN_WCbz4Xc
+
 ## Purpose
 
 This experiment's goal was to determine if a model could be trained to consistently generate images of a single character across various poses and scenarios. It aimed to achieve a uniform look across images by leveraging fine-tuned image-gen models with Blender CGI.
